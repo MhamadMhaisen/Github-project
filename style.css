@@ -4,6 +4,7 @@ body {
     width: 60%;
 }
 
+
 header {
     background-color: #242424;
     color: #fff;
@@ -11,6 +12,7 @@ header {
     padding: 20px;
 }
 
+/* styles for the navigation menu */
 nav {
     background-color: #f2f2f2;
     display: flex;
@@ -40,11 +42,13 @@ nav a:hover {
     text-decoration: underline;
 }
 
+/* styles for the main content area  */
 main {
     max-width: 800px;
     margin: 20px auto;
 }
 
+/* styles for each section */
 section {
     margin: 40px 0;
 }
@@ -64,6 +68,7 @@ section img {
     max-width: 100%;
 }
 
+/* styles for links on the page */
 a {
     color: #18ed18;
     text-decoration: none;
